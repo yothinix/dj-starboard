@@ -11,7 +11,7 @@ starboard
 .. image:: https://codecov.io/gh/yothinix/dj-starboard/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/yothinix/dj-starboard
 
-Django Starboard is a proproviding mechanism that allow data synchronization between Django  propproject as easy as possible. Suitable for building fleet of microservices based on Django.
+Django Starboard is a providing mechanism that allow data synchronization between Django  project as easy as possible. Suitable for building fleet of microservices based on Django.
 
 Documentation
 -------------
