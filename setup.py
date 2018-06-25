@@ -47,7 +47,7 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 setup(
     name='dj-starboard',
     version=version,
-    description="""Django Starboard is a proproviding mechanism that allow data synchronization between Django  propproject as easy as possible. Suitable for building fleet of microservices based on Django.""",
+    description="""Django Starboard is a providing mechanism that allow data synchronization between Django  project as easy as possible. Suitable for building fleet of microservices based on Django.""",
     long_description=readme + '\n\n' + history,
     author='Yothin Muangsommuk',
     author_email='m@yothinix.com',
@@ -67,8 +67,6 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Natural Language :: English',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
